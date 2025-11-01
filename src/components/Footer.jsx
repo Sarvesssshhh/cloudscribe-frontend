@@ -8,7 +8,7 @@ export default function Footer() {
       whileInView={{ opacity: 1 }}
       transition={{ duration: 1 }}
     >
-      © {new Date().getFullYear()} CloudScribe PDF | Built with ❤️ by Team MIT WPU
+      © {new Date().getFullYear()} CloudScribe PDF | 
     </motion.footer>
   );
 }
