@@ -6,9 +6,6 @@ export default function Home() {
     { name: "Merge PDF", path: "/merge", color: "from-indigo-500 to-purple-500" },
     { name: "Split PDF", path: "/split", color: "from-pink-500 to-red-500" },
     { name: "Compress PDF", path: "/compress", color: "from-green-500 to-emerald-500" },
-    { name: "Convert PDF", path: "/convert", color: "from-blue-500 to-cyan-500" },
-    { name: "Image ↔ PDF", path: "/image", color: "from-yellow-500 to-orange-500" },
-    { name: "OCR / Extract Text", path: "/ocr", color: "from-teal-500 to-sky-500" },
   ];
 
   return (
