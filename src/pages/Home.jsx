@@ -25,7 +25,7 @@ export default function Home() {
         animate={{ opacity: 1 }}
         transition={{ delay: 0.3 }}
       >
-        Convert, merge, split, and manage your PDFs easily on the cloud ☁️
+        merge, split, and compress your PDFs easily on the cloud ☁️
       </motion.p>
 
       <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-8 max-w-6xl mx-auto">
