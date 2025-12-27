@@ -26,6 +26,4 @@ This is the **frontend** part of the *CloudScribe* project — designed with ele
 |  **Framer Motion** | Animations and transitions |
 |  **Lucide React** | Icons |
 |  **React Router DOM** | Page navigation |
-|  **Vercel / Netlify** | (Optional) Deployment |
-
 ---
