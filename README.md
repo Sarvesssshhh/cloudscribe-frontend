@@ -1,11 +1,11 @@
-# 🌤️ CloudScribe PDF - Frontend
+#  CloudScribe PDF - Frontend
 
 A modern, animated, and responsive **React + TailwindCSS web app** that allows users to **merge, split, and compress PDF files** seamlessly.  
 This is the **frontend** part of the *CloudScribe* project — designed with elegant UI, dark mode, and smooth animations using **Framer Motion**.
 
 ---
 
-## ✨ Features
+##  Features
 
 ✅ **Merge PDFs** – Upload multiple files and combine them easily  
 ✅ **Split PDFs** – Upload a PDF and split it into pages  
@@ -17,7 +17,7 @@ This is the **frontend** part of the *CloudScribe* project — designed with ele
 
 ---
 
-## 🏗️ Tech Stack
+## Tech Stack
 
 | Technology | Purpose |
 |-------------|----------|
@@ -29,6 +29,3 @@ This is the **frontend** part of the *CloudScribe* project — designed with ele
 | ☁️ **Vercel / Netlify** | (Optional) Deployment |
 
 ---
-
-## 📂 Folder Structure
-
