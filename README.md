@@ -7,13 +7,13 @@ This is the **frontend** part of the *CloudScribe* project — designed with ele
 
 ##  Features
 
-✅ **Merge PDFs** – Upload multiple files and combine them easily  
-✅ **Split PDFs** – Upload a PDF and split it into pages  
-✅ **Compress PDFs** – Reduce PDF size without losing quality  
-✅ **Dark Mode** – Toggle between light and dark themes  
-✅ **Framer Motion Animations** – Smooth transitions and interactions  
-✅ **Fully Responsive** – Works beautifully on mobile, tablet, and desktop  
-✅ **Modern Design** – Built using TailwindCSS and Lucide icons  
+ **Merge PDFs** – Upload multiple files and combine them easily  
+ **Split PDFs** – Upload a PDF and split it into pages  
+ **Compress PDFs** – Reduce PDF size without losing quality  
+ **Dark Mode** – Toggle between light and dark themes  
+ **Framer Motion Animations** – Smooth transitions and interactions  
+ **Fully Responsive** – Works beautifully on mobile, tablet, and desktop  
+ **Modern Design** – Built using TailwindCSS and Lucide icons  
 
 ---
 
@@ -21,11 +21,11 @@ This is the **frontend** part of the *CloudScribe* project — designed with ele
 
 | Technology | Purpose |
 |-------------|----------|
-| ⚛️ **React.js** | Frontend UI framework |
-| 🎨 **Tailwind CSS** | Modern styling |
-| 🎞️ **Framer Motion** | Animations and transitions |
-| 🌗 **Lucide React** | Icons |
-| 🧭 **React Router DOM** | Page navigation |
-| ☁️ **Vercel / Netlify** | (Optional) Deployment |
+|  **React.js** | Frontend UI framework |
+|  **Tailwind CSS** | Modern styling |
+|  **Framer Motion** | Animations and transitions |
+|  **Lucide React** | Icons |
+|  **React Router DOM** | Page navigation |
+|  **Vercel / Netlify** | (Optional) Deployment |
 
 ---
